@@ -1,47 +1,46 @@
 # Chalana Gimhana
 
-**Software development student | Java & Spring Boot · Python · APIs · Linux automation**
+**Software developer in Sri Lanka focused on Java, Spring Boot, Python automation, APIs, Discord bots, and cloud/server tools.**
 
-I build web applications, Discord integrations, and tools for monitoring Linux servers. My projects explore backend development, relational databases, API integration, and practical automation.
+I am a software development student and builder behind [NetchLK](https://netch.lk/) and co-founder of [AMcone](https://amcone.net/). I like building practical systems: dashboards that make server work easier, bots that reduce manual admin work, and backend services that turn messy workflows into clear APIs.
 
-I'm the owner of NetchLK and co-founder of AMcone. I'm interested in software development opportunities where I can contribute to useful products and keep learning.
+My work sits close to real operations. I build tools for hosting, communities, education, monitoring, and small business workflows, then keep improving them through actual use. I am interested in software engineering roles where I can contribute to useful products, learn from strong teams, and grow into backend, full-stack, or cloud-focused engineering work.
 
-## Selected projects
+## What I Build
 
-### [Car Service and Maintenance Tracker](https://github.com/ChalanaGimhanaX/Car-Service-and-Maintenance-Tracker)
-A web application for vehicle service workshops, covering vehicles, service records, maintenance reminders, and invoices.
+- Backend applications with Java, Spring Boot, REST APIs, authentication, database design, and service workflows.
+- Python automation for Discord, VPS monitoring, cloud dashboards, APIs, and scheduled operations.
+- Web products with React, TypeScript, Next.js, Flask, Express, MongoDB, PostgreSQL, and MySQL.
+- Hosting and infrastructure tools connected to Linux servers, SSH, webhooks, dashboards, and admin workflows.
 
-- **Stack:** Java 17, Spring Boot, Spring Security, Spring Data JPA, Thymeleaf, MySQL, Flyway, Tailwind CSS.
-- **Explore:** Separate admin and client workflows, service progress tracking, database migrations, and audit logging.
-- **Try it:** The repository includes local H2 setup instructions and demo accounts.
+## Brands And Communities
 
-### [School Information Management System](https://github.com/ChalanaGimhanaX/Webbased-School-Information-Management-System)
-A SLIIT software engineering group project for school administration and academic workflows.
+- [AMcone](https://amcone.net/) - co-founder; building web, hosting, and digital service ideas.
+- [NetchLK](https://netch.lk/) - owner; Sri Lankan tech and hosting community with software experiments.
 
-- **Stack:** Java 17, Spring Boot, Spring Data JPA, H2, MySQL.
-- **My assigned role:** Group lead and timetable / academic scheduling subsystem.
-- **Explore:** REST endpoints, teacher and room conflict checks, database architecture, and scheduling unit tests.
+## Portfolio Highlights
 
-### [Server Monitor via Discord](https://github.com/ChalanaGimhanaX/Server-Monitor-Via-Discord)
-A Python tool that collects metrics from multiple VPS servers over SSH and posts updates to Discord webhooks.
+These repositories show the kind of work I enjoy: practical software, automation, and backend-heavy systems.
 
-- **Stack:** Python, Paramiko, HTTP requests, Linux, Discord webhooks.
-- **Explore:** CPU, memory, disk, and network monitoring with configurable servers and update intervals.
-- **Preview:** A sample output image and configuration guide are included in the repository.
+- [DealBro](https://github.com/ChalanaGimhanaX/DealBro) - hosting deals aggregator with FastAPI, MongoDB, Next.js, search, filtering, source adapters, and duplicate detection.
+- [Cloud-Manager](https://github.com/ChalanaGimhanaX/Cloud-Manager) - Python Discord bot and Flask dashboard prototype for managing V2Ray server and client configurations.
+- [OnDutyBot](https://github.com/ChalanaGimhanaX/OnDutyBot) - Discord moderation bot for staff duty toggles, persistent panels, role management, and mention handling.
+- [ExamBuddy](https://github.com/ChalanaGimhanaX/ExamBuddy) - React and TypeScript quiz-practice prototype with question imports, progress tracking, Express APIs, and PostgreSQL.
+- [Car Service and Maintenance Tracker](https://github.com/ChalanaGimhanaX/Car-Service-and-Maintenance-Tracker) - Spring Boot workshop system for vehicles, service records, reminders, invoices, and role-based workflows.
+- [School Information Management System](https://github.com/ChalanaGimhanaX/Webbased-School-Information-Management-System) - SLIIT group project where I worked as group lead and built timetable / academic scheduling features.
 
-## Technical focus
+## Technical Focus
 
-| Area | Technologies used across my projects |
+| Area | Tools and technologies |
 | --- | --- |
-| Backend & APIs | Java, Spring Boot, Python, Flask |
-| Data & persistence | MySQL, H2, Spring Data JPA, Flyway |
-| Web interfaces | Thymeleaf, Tailwind CSS |
-| Systems & automation | Linux / Ubuntu, Bash, PowerShell, SSH, Discord webhooks |
-
-I also explore JavaScript, TypeScript, Node.js, networking, and artificial intelligence.
+| Backend engineering | Java, Spring Boot, Python, Flask, FastAPI, Express |
+| Frontend and web apps | React, TypeScript, Next.js, Thymeleaf, Tailwind CSS |
+| Databases | MySQL, PostgreSQL, MongoDB, H2, SQLite |
+| Automation and infrastructure | Linux, Ubuntu, SSH, Bash, PowerShell, Discord bots, webhooks |
+| Software practice | REST APIs, role-based access, dashboards, documentation, Git, GitHub |
 
 ## Connect
 
-For opportunities or collaboration, reach me through [Facebook](https://www.facebook.com/ChalanaGimhanaLK/) or the [Discord community](https://discord.gg/SXZknW2Htf).
+For opportunities, collaboration, or software development work, reach me through [Facebook](https://www.facebook.com/ChalanaGimhanaLK/) or the [NetchLK Discord community](https://discord.gg/SXZknW2Htf).
 
-Browse [all my public repositories](https://github.com/ChalanaGimhanaX?tab=repositories) for more projects and experiments.
+Browse [all public repositories](https://github.com/ChalanaGimhanaX?tab=repositories) to see more projects and experiments.
